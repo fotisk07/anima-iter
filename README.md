@@ -32,12 +32,12 @@ Dans cette série, Stéph développe un Mini Jeu de réflexion en Minecraft 1.13
 
 ## Pour Contribuer
 
-S'il vous plaît lire [CONTRIBUTING.md] (https://github.com/fotisk07/anima-iter/blob/master/CONTRIBUTING) pour le processus de soumission des pull requests.
+S'il vous plaît lire [CONTRIBUTING](https://github.com/fotisk07/anima-iter/blob/master/CONTRIBUTING) pour le processus de soumission des pull requests.
 
 ## Authors
 
 * **The Emrio** - *Initial work* 
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE.md] https://github.com/fotisk07/anima-iter/blob/master/LICENSE) pour plus de détails.
+Ce projet est sous licence MIT - voir le fichier [LICENSE](https://github.com/fotisk07/anima-iter/blob/master/LICENSE) pour plus de détails.
 
 
