@@ -29,3 +29,15 @@ Dans cette série, Stéph développe un Mini Jeu de réflexion en Minecraft 1.13
 [yt-img-ep-1]: https://img.youtube.com/vi/TJ_m4eGyy6Q/0.jpg
 [gh-url-ep-1]: https://github.com/TheEmrio/anima-iter/Épisode%201/
 
+
+## Pour Contribuer
+
+S'il vous plaît lire [CONTRIBUTING.md] (https://github.com/fotisk07/anima-iter/blob/master/CONTRIBUTING) pour le processus de soumission des pull requests.
+
+## Authors
+
+* **The Emrio** - *Initial work* 
+
+Ce projet est sous licence MIT - voir le fichier [LICENSE.md] https://github.com/fotisk07/anima-iter/blob/master/LICENSE) pour plus de détails.
+
+
